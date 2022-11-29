@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color:burlywood;
+}
+
+h1 {
+    font-size: 46px;
+    background-color: red;
+    color: white;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div {
+    padding-top: 14px;
+}
+
+a {
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
